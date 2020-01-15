@@ -22,7 +22,19 @@ intl.cpl
 ## Contribuciones
 Las solicitudes de modificaciones son bienvenidas. Para cambios importantes, abra primero un reporte de  problema ("Issue") para discutir qué le gustaría cambiar.
 
-Asegúrese de actualizar las pruebas según corresponda.
+Asegúrese de actualizar el informe de cambios según corresponda.
+
+## Informe de Cambios
+
+### Versión 1.0 
+Diciembre de 2016. Trabajo de evaluación inicial con marco teórico terminado y desarollo parcial. 
+
+### Versión 1.1
+Febrero de 2018. Finalización de desarrollo.
+
+### Versión 1.2
+Enero de 2020. Revisión de marco teórico para entrega. 
+
 
 ## Licencia
 Derechos de autor ©2016-2020, Manuel Xavier S. V.
